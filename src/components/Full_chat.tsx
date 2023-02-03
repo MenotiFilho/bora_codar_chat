@@ -8,7 +8,6 @@ function Full_chat() {
 		<div className=" flex flex-col h-full">
 			<Top></Top>
 			<Chat></Chat>
-			<Bottom></Bottom>
 		</div>
 	);
 }
