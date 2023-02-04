@@ -1,6 +1,6 @@
-# Chat do /#BoraCodar 🚀
+# Chat do #BoraCodar 🚀
 
-Desafio feito para o 4º /#BoraCodar, um chat responsivo onde podemos mandar mensagens.
+Desafio feito para o 4º #BoraCodar, um chat responsivo onde podemos mandar mensagens.
 [Veja a demo aqui! 🎉](https://bora-codar-chat-five.vercel.app/)
 
 ## Tecnologias
