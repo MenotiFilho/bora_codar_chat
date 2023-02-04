@@ -5,7 +5,7 @@ import Top from "./Top";
 
 function Full_chat() {
 	return (
-		<div className=" flex flex-col h-full">
+		<div className=" max-w-sm lg:max-w-5xl flex flex-col h-full">
 			<Top></Top>
 			<Chat></Chat>
 		</div>

@@ -18,7 +18,7 @@ function Chat_message({ user, isReceived, message, time }: ChatMessageProps) {
 
 	return (
 		<div>
-			<div className={`w-3/4 ${side}`}>
+			<div className={`max-w-fit w-3/5 ${side}`}>
 				<div className={`text-sm font-extralight ${userClass}`}>{user}</div>
 				<div className={`break-words ${messageClass}`}>
 					<p>{message}</p>
